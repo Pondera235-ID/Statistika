@@ -1,4 +1,4 @@
-# Statistika
+# Statistika - MachineLearning
 
 Prediksi Harga Saham Alphabert.Inc Menggunakan Metode
 Radial Basis Function Neural Network dan Exponentially-
